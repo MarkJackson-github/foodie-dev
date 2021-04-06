@@ -2,105 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cc958d1-1810-421c-8b2e-05ae0064773d" name="Default Changelist" comment="添加ignore文件">
-      <change afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/foodie-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/aspect/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/config/Swagger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/controller/PassportController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/java/com/imooc/controller/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-api/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/foodie-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/enums/ExceptionEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/enums/SexEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/exception/BizException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/utils/JSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/com/imooc/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/DayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/RandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/Sid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/strategy/FileLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/utils/HttpReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/utils/IPv4Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/utils/Ip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/utils/Props.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/utils/Serializes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-common/src/main/java/org/n3r/idworker/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/foodie-mapper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/CarouselMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/ItemsCommentsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/ItemsImgMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/ItemsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/ItemsParamMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/ItemsSpecMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/OrderItemsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/OrderStatusMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/OrdersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/UserAddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/java/com/imooc/utils/mapper/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/CarouselMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/ItemsCommentsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/ItemsImgMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/ItemsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/ItemsParamMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/ItemsSpecMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/OrderItemsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/OrderStatusMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/OrdersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/UserAddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-mapper/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/foodie-pojo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/dto/param/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/Carousel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/Items.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/ItemsComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/ItemsImg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/ItemsParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/ItemsSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/OrderItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/UserAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-pojo/src/main/java/com/imooc/pojo/entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-service/foodie-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-service/src/main/java/com/imooc/service/StuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-service/src/main/java/com/imooc/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/foodie-dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/foodie-dev.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodie-sql/foodie-shop-dev.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-api/foodie-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-common/foodie-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-mapper/foodie-mapper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-pojo/foodie-pojo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-service/foodie-service.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +28,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../maven/repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1aTSt39IPzHmcyRkxa3Y8aXHbwK" />
   <component name="ProjectViewState">
@@ -139,7 +62,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodie-common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -260,6 +183,7 @@
       <workItem from="1588858223083" duration="8000" />
       <workItem from="1588922208827" duration="10079000" />
       <workItem from="1589003375509" duration="6696000" />
+      <workItem from="1617677772039" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore文件">
       <created>1586836661583</created>
@@ -328,130 +252,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加ignore文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="561" y="243" key="#Custom_Plugin_Repositories" timestamp="1587699377126">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state x="570" y="343" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1617678049813">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="561" y="243" key="#Custom_Plugin_Repositories/0.40.1920.1040@0.40.1920.1040" timestamp="1587699377126" />
-    <state x="399" y="254" key="#HTTP_Proxy" timestamp="1587699777685">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state x="570" y="343" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1617678049813" />
+    <state x="82" y="55" key="SettingsEditor" timestamp="1617678276904">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="254" key="#HTTP_Proxy/0.40.1920.1040@0.40.1920.1040" timestamp="1587699777685" />
-    <state x="902" y="205" key="#Project_Structure" timestamp="1587536754109">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="902" y="205" key="#Project_Structure/0.40.1920.1040@0.40.1920.1040" timestamp="1587536754109" />
-    <state x="859" y="222" key="#Scopes" timestamp="1587539150049">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="859" y="222" key="#Scopes/0.40.1920.1040@0.40.1920.1040" timestamp="1587539150049" />
-    <state x="1292" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1588946239463">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="1292" y="267" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1588946239463" />
-    <state x="899" y="488" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587539068657">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="899" y="488" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1587539068657" />
-    <state x="1046" y="422" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587539212912">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="1046" y="422" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.40.1920.1040@0.40.1920.1040" timestamp="1587539212912" />
-    <state x="1046" y="443" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587539081078">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="1046" y="443" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.40.1920.1040@0.40.1920.1040" timestamp="1587539081078" />
-    <state x="560" y="153" key="CommitChangelistDialog2" timestamp="1586836706111">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="560" y="153" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1586836706111" />
-    <state x="740" y="301" key="FileChooserDialogImpl" timestamp="1587721320565">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="740" y="301" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1587721320565" />
-    <state x="300" y="220" width="1284" height="683" key="GrepConsoleSettings" timestamp="1587722349992">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="300" y="220" width="1284" height="683" key="GrepConsoleSettings/0.40.1920.1040@0.40.1920.1040" timestamp="1587722349992" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1589006797622">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797622" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1589006797622">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797622" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1589006797622">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797622" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1589006797622">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797622" />
-    <state width="1877" height="273" key="GridCell.Tab.1.bottom" timestamp="1589006797625">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797625" />
-    <state width="1877" height="273" key="GridCell.Tab.1.center" timestamp="1589006797624">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797624" />
-    <state width="1877" height="273" key="GridCell.Tab.1.left" timestamp="1589006797623">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797623" />
-    <state width="1877" height="273" key="GridCell.Tab.1.right" timestamp="1589006797624">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="273" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1589006797624" />
-    <state x="856" y="251" key="NewModule_or_Project.wizard" timestamp="1587534984512">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="856" y="251" key="NewModule_or_Project.wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1587534984512" />
-    <state x="926" y="264" key="RollbackChangesDialog" timestamp="1587707777876">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="926" y="264" key="RollbackChangesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1587707777876" />
-    <state x="42" y="120" key="SettingsEditor" timestamp="1588927825149">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="42" y="120" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1588927825149" />
-    <state x="922" y="271" width="753" height="572" key="StructurePopup" timestamp="1589009632882">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="922" y="271" width="753" height="572" key="StructurePopup/0.40.1920.1040@0.40.1920.1040" timestamp="1589009632882" />
-    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1586836667011">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="552" y="293" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1586836667011" />
-    <state x="645" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1589003517627">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="645" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1589003517627" />
-    <state x="1279" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587562384746">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="1279" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040@0.40.1920.1040" timestamp="1587562384746" />
-    <state x="1107" y="286" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587619536312">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="1107" y="286" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1587619536312" />
-    <state x="764" y="103" width="786" height="900" key="find.popup" timestamp="1587707705117">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="764" y="103" width="786" height="900" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1587707705117" />
-    <state x="20" y="241" key="new project wizard" timestamp="1586843622860">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="20" y="241" key="new project wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1586843622860" />
-    <state x="659" y="260" key="run.anything.popup" timestamp="1587642863249">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="659" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1587642863249" />
-    <state x="666" y="275" width="672" height="678" key="search.everywhere.popup" timestamp="1587616650864">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="666" y="275" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1587616650864" />
+    <state x="82" y="55" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1617678276904" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
